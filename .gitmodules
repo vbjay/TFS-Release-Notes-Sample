@@ -1,0 +1,4 @@
+[submodule "TFS-Release-Notes"]
+	path = TFS-Release-Notes
+	url = https://github.com/vbjay/TFS-Release-Notes.git
+	branch = master
